@@ -1,4 +1,4 @@
-NDC_Code,Proprietary Name,Non-proprietary Name,Dosage Form,Route Name,Company Name,Product Type
+ndc_code,Proprietary Name,Non-proprietary Name,Dosage Form,Route Name,Company Name,Product Type
 0087-6060,Glucophage,Metformin Hydrochloride,"Tablet, Film Coated",Oral,Bristol-myers Squibb Company,Human Prescription Drug
 0087-6063,Glucophage XR,Metformin Hydrochloride,"Tablet, Extended Release",Oral,Bristol-myers Squibb Company,Human Prescription Drug
 0087-6064,Glucophage XR,Metformin Hydrochloride,"Tablet, Extended Release",Oral,Bristol-myers Squibb Company,Human Prescription Drug
@@ -256,12 +256,12 @@ NDC_Code,Proprietary Name,Non-proprietary Name,Dosage Form,Route Name,Company Na
 76333-127,Miglitol,Miglitol,"Tablet, Coated",Oral,"Orient Pharma Co., Ltd.",Human Prescription Drug
 0378-0217,Tolazamide,Tolazamide,Tablet,Oral,Mylan Pharmaceuticals Inc.,Human Prescription Drug
 0378-0551,Tolazamide,Tolazamide,Tablet,Oral,Mylan Pharmaceuticals Inc.,Human Prescription Drug
-68071-1701,Novolin R,Human Insulin,,,,
+68071-1701,Novolin R,Human Insulin,UNKNOWN,,,
 47918-880,Afrezza,Insulin Human,Kit,,Mannkind Corporation,Human Prescription Drug
 47918-891,Afrezza,Insulin Human,"Powder, Metered",Respiratory (inhalation),Mannkind Corporation,Human Prescription Drug
 47918-898,Afrezza,Insulin Human,Kit,,Mannkind Corporation,Human Prescription Drug
 47918-902,Afrezza,Insulin Human,Kit,,Mannkind Corporation,Human Prescription Drug
-50090-0353,Humulin R,Insulin Human,,,,
+50090-0353,Humulin R,Insulin Human,UNKNOWN,,,
 0781-5634,Pioglitazone Hydrochloride And Glimepiride,Pioglitazone Hydrochloride And Glimepiride,Tablet,Oral,Sandoz Inc,Human Prescription Drug
 0781-5635,Pioglitazone Hydrochloride And Glimepiride,Pioglitazone Hydrochloride And Glimepiride,Tablet,Oral,Sandoz Inc,Human Prescription Drug
 64764-302,Duetact,Pioglitazone And Glimepiride,Tablet,Oral,"Takeda Pharmaceuticals America, Inc.",Human Prescription Drug
