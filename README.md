@@ -10,6 +10,8 @@ lesson-2-world
 lesson-3-foo
 lesson-4-bar
 project
+
+
 ```
 
 Each `lesson` folder is named using the naming convention of `lesson-#-name-of-lesson`.
